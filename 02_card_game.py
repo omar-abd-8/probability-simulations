@@ -1,6 +1,6 @@
 import numpy as np
 
-experiments=10000
+experiments=1000000
 my_wins=0
 d_wins=0
 ties=0
